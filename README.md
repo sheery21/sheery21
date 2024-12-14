@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sheharyar Hussain</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<p align="center">## 💡 Turning Ideas into Interactive Experiences!  
+👨‍💻 Hi, I'm [SHEHARYAR HUSSAIN] – a passionate frontend developer specializing in **HTML** and **CSS**.  
+🌟 I create clean, responsive, and user-friendly designs that bring ideas to life.  
+📚 Currently exploring advanced web techniques and frameworks to elevate my craft!  
+</p>
 
 - 📫 How to reach me **sheharyarhussaa832@gmail.com**
 
