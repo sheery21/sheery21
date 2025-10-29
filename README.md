@@ -2,7 +2,6 @@
 
 ### A passionate Full Stack & Mobile App Developer from Pakistan
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=sheery21&label=Profile views&color=0e75b6&style=flat](https://avatars.githubusercontent.com/u/159801295?v=4)" alt="sheery21" /> </p>
 
 - 🔭 I'm currently working on **Building modern and responsive full-stack web and mobile applications using the MERN stack and Flutter.**
 
